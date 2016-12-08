@@ -37,22 +37,22 @@
 
 
 
-		<local:LifepointCounter Margin="1589,100,161,320" RenderTransformOrigin="0.5,0.5" Background="Cyan">
+		<local:LifepointCounter RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Right" Margin="0,0,150,100" Background="Cyan">
 			<local:LifepointCounter.RenderTransform>
 				<TransformGroup>
 					<ScaleTransform/>
 					<SkewTransform/>
-					<RotateTransform Angle="151.609"/>
+					<RotateTransform Angle="-210"/>
 					<TranslateTransform/>
 				</TransformGroup>
 			</local:LifepointCounter.RenderTransform>
 		</local:LifepointCounter>
-		<local:LifepointCounter RenderTransformOrigin="0.5,0.5" Margin="159,320,1591,100" Background="Cyan" Grid.Row="1">
+		<local:LifepointCounter RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" Margin="150,100,0,0" Background="Cyan" Grid.Row="1">
 			<local:LifepointCounter.RenderTransform>
 				<TransformGroup>
 					<ScaleTransform/>
 					<SkewTransform/>
-					<RotateTransform Angle="331.457"/>
+					<RotateTransform Angle="-30"/>
 					<TranslateTransform/>
 				</TransformGroup>
 			</local:LifepointCounter.RenderTransform>
