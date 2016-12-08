@@ -6,6 +6,7 @@
              xmlns:local="clr-namespace:SurfaceYuGiOhCards"
              mc:Ignorable="d" 
 			 Background="Lime"
+			 Foreground="Black"
              Height="120" Width="150">
     <Grid Margin="20">
 		<Grid.RowDefinitions>

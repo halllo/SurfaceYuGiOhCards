@@ -28,8 +28,8 @@
 				<RotateTransform Angle="90"/>
 			</Image.LayoutTransform>
 		</Image>
-		<Image Grid.Row="1" Source="Images/decks.png" HorizontalAlignment="Right"/>
-		<Image Grid.Row="0" Source="Images/decks.png" HorizontalAlignment="Left">
+		<Image Grid.Row="1" Source="Images/decks.png" HorizontalAlignment="Right" Margin="-20,-50,20,50"/>
+		<Image Grid.Row="0" Source="Images/decks.png" HorizontalAlignment="Left" Margin="20,50,-20,-50">
 			<Image.LayoutTransform>
 				<RotateTransform Angle="180"/>
 			</Image.LayoutTransform>
